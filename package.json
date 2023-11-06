@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Desarrollo y apuntes del curso de ECMAscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "ECMAscript"
+  ],
+  "author": "Erick Del Piero <erick.gonzales.r@uni.pe>",
+  "license": "MIT",
+  "type": "module"
+}
